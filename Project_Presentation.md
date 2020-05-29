@@ -3,7 +3,7 @@ ABCD Grade Calculator
 author: Tamer Salem
 date: 29 May 2020
 autosize: true
-transition: slide
+transition: concave
 Course Project: Shiny Application and Reproducible Pitch
 
 Coursera Developing Data Products Course 9 Week 4
@@ -50,7 +50,7 @@ Links
 
 [The Source code for the project]
 
-(https://github.com/sinhaa8/Developing-Data-Products)
+(https://github.com/moooor/Developing-Data-Products)
 
 [The app itself on the Shiny server]
 
