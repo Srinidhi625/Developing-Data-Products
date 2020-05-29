@@ -1,0 +1,12 @@
+name: Shiny_Application_and_Reproducible_Pitch
+title: Shiny_Application_and_Reproducible_Pitch
+username:
+account: moooor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2374288
+bundleId: 3202888
+url: https://moooor.shinyapps.io/Shiny_Application_and_Reproducible_Pitch/
+when: 1590714185.33371
+asMultiple: FALSE
+asStatic: FALSE
